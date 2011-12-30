@@ -1,0 +1,37 @@
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\bin\Debug\SendEmail.dll
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\bin\Debug\SendEmail.xml
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\bin\Debug\SendEmail.tlb
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.SendEmail.resources
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.vbproj.GenerateResource.Cache
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.dll
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.xml
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+E:\Work\Others\Email-Interop_Test1\SendEmail\SendEmail\obj\Debug\SendEmail.Resources.resources
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.dll
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\itextsharp.dll
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.CrypPDF.resources
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.Resources.resources
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.SendEmail.resources
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.vbproj.GenerateResource.Cache
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.dll
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.xml
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.xml
+D:\New Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.tlb
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.CrypPDF.resources
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.Resources.resources
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.SendEmail.resources
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.vbproj.GenerateResource.Cache
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.dll
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.xml
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\obj\Debug\SendEmail.pdb
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.dll
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.pdb
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.xml
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\SendEmail.tlb
+D:\Work\win_comunion_ticketing\DLL\SendEmail\SendEmail\bin\Debug\itextsharp.dll

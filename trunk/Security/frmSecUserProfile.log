@@ -1,0 +1,10 @@
+Line 101: Class ITGControls.ITGTextBox of control txtUserID was not a loaded control class.
+Line 135: Class ITGControls.ITGTextBox of control txtFName was not a loaded control class.
+Line 167: Class ITGControls.ITGTextBox of control txtMI was not a loaded control class.
+Line 199: Class ITGControls.ITGTextBox of control txtLName was not a loaded control class.
+Line 231: Class ITGControls.ITGTextBox of control txtRoleDesc was not a loaded control class.
+Line 263: Class ITGControls.ITGTextBox of control txtRoleID was not a loaded control class.
+Line 295: Class ITGControls.ITGTextBox of control txtDeptDesc was not a loaded control class.
+Line 327: Class ITGControls.ITGTextBox of control txtDeptID was not a loaded control class.
+Line 359: Class ITGControls.ITGTextBox of control txtUnitDivDesc was not a loaded control class.
+Line 391: Class ITGControls.ITGTextBox of control txtUnitDiv was not a loaded control class.

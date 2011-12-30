@@ -1,0 +1,81 @@
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; File Name		: NV.INF
+;; Function Outline	: BIXOLON NV Image Tool Information File
+;; Copyright (C) BIXOLON. 2007
+;; 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+[COMMON]
+VERSION 	= 3.1.6
+DESCRIPTION 	= NV Image Tool V3.1.6 
+
+;STP-103, STP-131, SRP-270, SRP-275, SRP-350, SRP-350N, SRP-350PLUS, SRP-350PLUSF,SRP-352PLUS, 
+;SRP-370, SRP-372, SRP-500, SRP-770Receipt, SRP-770Label
+ModelName 	=SRP-370(2Color)
+;0 : Dot, 1 : 1 color Thermal, 2 : 2 color Thermal
+; not use option : 3 : label Printer
+MODELTYPE 	=2			
+RECEIPTWIDTH 	=512
+MEMORYSIZE 	=56 
+DOWNMAX		=78
+IMAGE =5
+
+
+
+[COMMUNICATION]
+; 0 = Serial; 1 = Parallel; 2 = USB; 3 = Ethernet
+INTERFACE 	=2 			
+
+;Serial, Parallel, USB
+PORTNAME 	=USB001:
+USBPORT		=\\?\usb#vid_1504&pid_0004#5&687f81a&0&2#{a5dcbf10-6530-11d2-901f-00c04fb951ed}
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Serial Setting
+;2400-115200
+BAUDRATE 	=19200 	
+PARITY   	=NONE
+DATABITS	=8
+STOPBITS	=1
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;Ethernet Setting
+IP1 	=192
+IP2 	=168
+IP3 	=100
+IP4 	=164
+PORT 	=6000
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;0st Printer Name
+;1st Attribute : Interface Supported
+;1 : Serial, 2 : Parallel , 4 : USB, 8 : Ethernet
+;2st Attribute : Printer Type
+;0 : Dot, 1 : 1 color Thermal, 2 : 2 color Thermal, 3 : label Printer
+;3st Attribute : Printer Width
+;4st Attribute : Printer Down max count
+;5st Attribute : Printer Flash Size (KByte)
+
+[PRINTERLIST]
+PRINTER01 = STP-103,003,001,384,256,256
+PRINTER02 = STP-131,003,001,512,256,256
+PRINTER03 = SRP-275,015,000,400,010,256
+PRINTER04 = SRP-350,015,001,512,256,256
+PRINTER05 = SRP-350plus(2Color),015,002,512,256,256
+PRINTER06 = SRP-350plus(Mono),015,001,512,256,256
+PRINTER07 = SRP-350plusF(2Color),001,002,512,256,256
+PRINTER08 = SRP-350plusF(Mono),001,001,512,256,256
+PRINTER09 = SRP-350N,015,001,342,256,256
+PRINTER10 = SRP-352plus(2Color),015,002,576,256,256
+PRINTER11 = SRP-352plus(Mono),015,001,576,256,256
+PRINTER12 = SRP-370(Mono),015,001,512,256,256
+PRINTER13 = SRP-370(2Color),015,002,512,78,256
+PRINTER14 = SRP-372(Mono),015,001,576,256,256
+PRINTER15 = SRP-372(2Color),015,002,576,256,256
+PRINTER16 = SRP-500,015,000,512,10,256
+PRINTER17 = SRP-770Receipt,015,001,725,256,256
+
+
+
+

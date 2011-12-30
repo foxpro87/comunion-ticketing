@@ -1,0 +1,8 @@
+cType	string	20
+nGroup	number
+cTicketNo	string	20
+nNetPrice	number
+nHour	number
+MinTicket	string	25
+MaxTicket	string	25
+dDate	date
