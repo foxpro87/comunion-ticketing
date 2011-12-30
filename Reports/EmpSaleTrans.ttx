@@ -1,0 +1,8 @@
+cCompanyID	string	10
+cTerminal	string	50
+cUserNo	string	50
+cUserName	string	50
+cType	string	50
+nCount	number
+nNetPrice	number
+dTranDate	date

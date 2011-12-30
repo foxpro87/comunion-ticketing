@@ -1,0 +1,25 @@
+//[{SIZE},{isBOLD},{isBarCode},{isCenter}]
+[FONTNAME]Arial
+[BARCODE]CODE128
+[10,1,0,1]<cCompName>
+[8,0,0,1]<cAddress>
+[8,0,0,1]TIN: <cTin>
+[8,0,0,1]PASSENGER TERMINAL FEE
+[8,0,0,1]TF:<nPrice> | Vat:<nVat> | Total: <nNetPrice>
+[10,1,0,1]Type: <cType>: P<nNetPrice>
+
+[8,1,1,1]<cTranNo>
+
+[8,0,0,0]Date: <dDateTime> | Teller: <FirstName>
+[8,0,0,0]Reference: <cTranNo>
+
+[8,0,0,1]Keep the ticket for inspection
+[8,0,0,1]Have a safe trip
+[6,0,0,1]This ticket is non-refundable
+[9,0,0,1]********Passenger’s copy*********
+
+[9,0,0,1]--------------------------------
+[6,0,0,0]Ticket No: <cTranNo>
+[6,0,0,0]Time: <dDateTime1>
+[6,0,0,0]Date: <dDateTime2>
+[9,0,0,1]*********Guard’s copy********
